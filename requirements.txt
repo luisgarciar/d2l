@@ -1,0 +1,3 @@
+pytorch
+d2l
+numpy
